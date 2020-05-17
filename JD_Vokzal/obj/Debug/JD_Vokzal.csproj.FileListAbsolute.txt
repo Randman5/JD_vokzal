@@ -1,0 +1,17 @@
+C:\Users\Руслан\source\repos\JD_Vokzal\JD_Vokzal\bin\Debug\JD_Vokzal.exe.config
+C:\Users\Руслан\source\repos\JD_Vokzal\JD_Vokzal\bin\Debug\JD_Vokzal.exe
+C:\Users\Руслан\source\repos\JD_Vokzal\JD_Vokzal\bin\Debug\JD_Vokzal.pdb
+C:\Users\Руслан\source\repos\JD_Vokzal\JD_Vokzal\obj\Debug\JD_Vokzal.Properties.Resources.resources
+C:\Users\Руслан\source\repos\JD_Vokzal\JD_Vokzal\obj\Debug\JD_Vokzal.csproj.GenerateResource.cache
+C:\Users\Руслан\source\repos\JD_Vokzal\JD_Vokzal\obj\Debug\JD_Vokzal.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\source\repos\JD_Vokzal\JD_Vokzal\obj\Debug\JD_Vokzal.exe
+C:\Users\Руслан\source\repos\JD_Vokzal\JD_Vokzal\obj\Debug\JD_Vokzal.pdb
+C:\Users\Руслан\source\repos\JD_Vokzal\JD_Vokzal\obj\Debug\JD_Vokzal.Form_Main_menu.resources
+C:\Users\Руслан\source\repos\JD_Vokzal\JD_Vokzal\obj\Debug\JD_Vokzal.The_passengers.resources
+C:\Users\Руслан\source\repos\JD_Vokzal\JD_Vokzal\obj\Debug\JD_Vokzal.Cities.resources
+C:\Users\Руслан\source\repos\JD_Vokzal\JD_Vokzal\obj\Debug\JD_Vokzal.Wagons.resources
+C:\Users\Руслан\source\repos\JD_Vokzal\JD_Vokzal\obj\Debug\JD_Vokzal.Flights.resources
+C:\Users\Руслан\source\repos\JD_Vokzal\JD_Vokzal\obj\Debug\JD_Vokzal.csprojAssemblyReference.cache
+C:\Users\Руслан\source\repos\JD_Vokzal\JD_Vokzal\obj\Debug\JD_Vokzal.Group_Wagons.resources
+C:\Users\Руслан\source\repos\JD_Vokzal\JD_Vokzal\obj\Debug\JD_Vokzal.Place_form.resources
+C:\Users\Руслан\source\repos\JD_Vokzal\JD_Vokzal\obj\Debug\JD_Vokzal.Tickets_purchased.resources
